@@ -1,7 +1,9 @@
 <h1 align="center">Hi, guys! <img src="https://avatars.githubusercontent.com/u/75364799?v=4" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my github page !</b><br><br>
+    <b>Welcome to my github page!</b><br>
+
+    <b>Here is what I master and what I use in all kind of projects (development, cybersecurity, infrastructure, etc)</b><br><br>
     -------------------------------------------------------------------------------
    
 </p>
