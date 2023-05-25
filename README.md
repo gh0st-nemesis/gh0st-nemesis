@@ -5,7 +5,7 @@
     
    
 </p>
-
+-------------------------------------------------------------------------------
 # Development
 
 ## Languages
@@ -44,7 +44,7 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat-square)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=flat-square)
 
-
+------------------------------------------------------------------------------------------------
 
 
 
