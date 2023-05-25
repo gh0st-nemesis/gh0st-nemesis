@@ -37,6 +37,12 @@
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-4479A1?logo=php&logoColor=white&style=flat-square)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white&style=flat-square)
 
+## Operating system development
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat-square)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=flat-square)
 
 
 
