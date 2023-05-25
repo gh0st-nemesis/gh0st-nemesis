@@ -13,7 +13,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)]
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)]
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 
 
