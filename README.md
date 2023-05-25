@@ -15,7 +15,8 @@
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Golang](https://img.shields.io/badge/Go-Golang-lightblue?logo=go)
+![Golang](https://img.shields.io/badge/Go-Golang-lightblue?logo=go&logoColor=white&style=flat-square)
+
 
 
 
