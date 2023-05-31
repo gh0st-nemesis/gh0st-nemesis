@@ -32,6 +32,7 @@
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white&style=flat-square)
 
 ## Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
