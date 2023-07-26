@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://avatars.githubusercontent.com/u/75364799?v=4" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! 👋 <img src="https://avatars.githubusercontent.com/u/75364799?v=4" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my github page!<br>Here is what I master and what I use in all kind of projects (development, cybersecurity, infrastructure, etc)</b><br><br>
@@ -58,7 +58,13 @@
 [![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?logo=hack-the-box&logoColor=white&style=flat-square)](https://www.hackthebox.com/home/users/profile/614349)
 
 
+------------------------------------------------------------------------------------------------
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=H4CK3R5-Dmaster&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=H4CK3R5-Dmaster&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3R5-Dmaster&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
