@@ -5,7 +5,7 @@
    
 </p>
 
-# Development
+# 🖥 Development
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -50,7 +50,7 @@
 ------------------------------------------------------------------------------------------------
 
 
-# Cybersecurity
+# 🛡 Cybersecurity
 
 ## Cybersecurity challenges
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-1ABC9C?logo=tryhackme&logoColor=white&style=flat-square)](https://tryhackme.com/p/H4CK3R5FS)
