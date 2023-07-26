@@ -74,4 +74,6 @@
 # Project dev phase :
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=H4CK3R5-Dmaster&repo=echoes&theme=dracula)](https://github.com/H4CK3R5-Dmaster/echoes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=H4CK3R5-Dmaster&repo=ScanCMS&theme=dracula)](https://github.com/H4CK3R5-Dmaster/ScanCMS)
+
 
