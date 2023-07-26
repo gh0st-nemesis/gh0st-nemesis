@@ -69,5 +69,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=H4CK3R5-Dmaster&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
+--------------------------------------------------------------------------------------------------
 
+# Project dev phase :
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=H4CK3R5-Dmaster&repo=echoes&theme=dracula)
 
