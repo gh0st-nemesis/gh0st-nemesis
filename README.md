@@ -67,5 +67,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3R5-Dmaster&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=H4CK3R5-Dmaster&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=H4CK3R5-Dmaster&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 
