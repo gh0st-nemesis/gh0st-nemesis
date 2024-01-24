@@ -54,6 +54,7 @@
 
 ## Cybersecurity challenges
 <img src="https://tryhackme-badges.s3.amazonaws.com/H4CK3R5FS.png" alt="TryHackMe">
+<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/187a6ec77ef93f649abb0080a0d19512/static_badge_dark.png" />
 
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-1ABC9C?logo=tryhackme&logoColor=white&style=flat-square)](https://tryhackme.com/p/H4CK3R5FS)
 [![Root Me](https://img.shields.io/badge/-Root%20Me-03A062?logo=root-me&logoColor=white&style=flat-square)](https://www.root-me.org/h4ck3r-fs?lang=fr#1f78aec1440369f39d564b331b060579)
