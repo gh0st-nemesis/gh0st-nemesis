@@ -15,6 +15,7 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+1[Lua](https://img.shields.io/badge/-lua-02027D?logo=lua&logoColor=white&style=flat-square)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=amazon-dynamodb&logoColor=white&style=flat-square)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
