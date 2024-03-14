@@ -59,7 +59,6 @@
 ## Cybersecurity challenges
 <img src="https://tryhackme-badges.s3.amazonaws.com/H4CK3R5FS.png" alt="TryHackMe">
 
-![tryhackme stats](https://raw.githubusercontent.com/H4CK3R5FS/H4CK3R5FS/master/assets/thm_propic.png)
 
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-1ABC9C?logo=tryhackme&logoColor=white&style=flat-square)](https://tryhackme.com/p/H4CK3R5FS)
 
