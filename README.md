@@ -86,4 +86,4 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gh0st-nemesis&repo=GoPentestRecap&theme=dracula)](https://github.com/H4CK3R5-Dmaster/GoPentestRecap)
 
 
-<a href="https://www.buymeacoffee.com/grim_nightmare"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee - please&emoji=&slug=grim_nightmare&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
